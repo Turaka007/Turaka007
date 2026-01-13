@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Hrithik Turaka**, a freshman at the University of Colorado Denver majoring in **Electrical Engineering** with a strong interest in **semiconductors**—especially **ASICs** **digital logic, circuits, and computer engineering** 🎓.
+I'm **Hrithik Turaka**, a freshman at the University of Colorado Denver majoring in **Electrical Engineering** with a strong interest in **semiconductors**—especially **ASICs,** **digital logic, circuits, and computer engineering** 🎓.
 
 I’m early in my journey and still building experience, but I’m actively working to grow my skills through coursework, labs, and personal projects. I care a lot about learning the fundamentals and applying them to real-world problems.
 
