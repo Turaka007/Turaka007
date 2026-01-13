@@ -2,7 +2,7 @@
 
 I'm **Hrithik Turaka**, a freshman at the University of Colorado Denver majoring in **Electrical Engineering** with a minor in **Computer Engineering**, and a focused passion for **semiconductors**—specifically **ASIC design, GPU architecture, and digital logic systems** 🎓.
 
-I'm building a strong foundation in RTL design, digital systems, and hardware verification while actively working to understand the full semiconductor design flow. My goal is to contribute to cutting-edge chip design at companies like Nvidia, AMD, Intel, or innovative fabless startups.
+I'm building a strong foundation in RTL design, digital systems, and hardware verification while actively working to understand the full semiconductor design flow. My goal is to contribute to cutting-edge chip design anywhere I can.
 
 ### Current Focus 🎯
 
@@ -16,7 +16,7 @@ I'm building a strong foundation in RTL design, digital systems, and hardware ve
 **ELEC 1510: Digital Logic Design**
 - Designed combinational and sequential switching circuits
 - Applied Boolean algebra, Karnaugh maps (K-maps), and algorithmic state machines (ASMs)
-- Simulated circuits in Verilog/SystemVerilog using Intel Quartus Prime 18.1
+- Simulated circuits in Verilog/Behavioral Verilog using Intel Quartus Prime 18.1
 - Foundation: Synchronous logic, timing, and basic RTL thinking
 
 **Spring 2026**  
