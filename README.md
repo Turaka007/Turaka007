@@ -29,7 +29,7 @@ I'm building a strong foundation in RTL design, digital systems, and hardware ve
 ### Skills & Tools 🧰
 
 **Hardware Description Languages**
-- Verilog/SystemVerilog (primary focus for RTL design)
+- Verilog (primary focus for RTL design)
 - Intel Quartus Prime 18.1 (FPGA synthesis and simulation)
 
 **Programming**
