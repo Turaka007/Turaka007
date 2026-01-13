@@ -1,43 +1,46 @@
 ## Hi there 👋
 
-I'm **Hrithik Turaka**, a freshman at the University of Colorado Denver majoring in **Electrical Engineering** with a strong interest in **semiconductors**—especially **ASICs,** **digital logic, circuits, and computer engineering** 🎓.
+I'm **Hrithik Turaka**, a freshman at the University of Colorado Denver majoring in **Electrical Engineering** with a minor in **Computer Engineering**, and a focused passion for **semiconductors**—specifically **ASIC design, GPU architecture, and digital logic systems** 🎓.
 
-I’m early in my journey and still building experience, but I’m actively working to grow my skills through coursework, labs, and personal projects. I care a lot about learning the fundamentals and applying them to real-world problems.
+I'm building a strong foundation in RTL design, digital systems, and hardware verification while actively working to understand the full semiconductor design flow. My goal is to contribute to cutting-edge chip design at companies like Nvidia, AMD, Intel, or innovative fabless startups.
+
+### Current Focus 🎯
+
+- **RTL Design & Digital Logic**: Mastering synchronous design, state machines, combinational/sequential circuits, and hardware description languages
+- **ASIC + GPU Specialization**: Understanding how GPU cores are specialized ASICs and positioning myself for GPU ASIC design roles
+- **Building a Portfolio**: Creating hands-on projects that demonstrate RTL fundamentals and design thinking
 
 ### Relevant Coursework 📚
 
-**Fall 2025** 
-
-- **ELEC 1510: Digital Logic**
-- Designed combinational and sequential switching circuits  
-- Used Boolean algebra, K-maps, and algorithmic state machines  
-- Simulated designs in Verilog/SystemVerilog using Intel Quartus Prime
+**Fall 2025**  
+**ELEC 1510: Digital Logic Design**
+- Designed combinational and sequential switching circuits
+- Applied Boolean algebra, Karnaugh maps (K-maps), and algorithmic state machines (ASMs)
+- Simulated circuits in Verilog/SystemVerilog using Intel Quartus Prime 18.1
+- Foundation: Synchronous logic, timing, and basic RTL thinking
 
 **Spring 2026**  
-**ELEC 1520: Programming for Electrical Engineers**  
-- Learning C/C++ and Python for engineering problem-solving  
-- Focusing on data structures, algorithms, and object-oriented design  
-- Building skills in testing, debugging, and computer system fundamentals  
+**ELEC 1520: Programming for Electrical Engineers (C/C++)**
+- Learning C/C++ and embedded systems fundamentals
+- Building understanding of how high-level code maps to hardware
+- Focus: Thinking in parallelism and hardware constraints, not algorithmic optimization
+- Ongoing: Supplementing with independent Verilog/SystemVerilog study
 
+### Skills & Tools 🧰
 
-### What I'm Learning 📖
+**Hardware Description Languages**
+- Verilog/SystemVerilog (primary focus for RTL design)
+- Intel Quartus Prime 18.1 (FPGA synthesis and simulation)
 
-- **ELEC 1520: Programming for Electrical Engineers** – Circuit design, K-maps, state machines, Verilog simulation  
-- Fundamentals of semiconductor devices and their applications  
-- CPU/GPU/FPGA architecture basics
+**Programming**
+- C/C++ (in progress via coursework)
+- Python (for scripting and data analysis)
+- Git & GitHub (version control and portfolio management)
 
-### Tools & Technologies 🧰
-
-- Intel Quartus Prime (FPGA development)  
-- Verilog  
-- C/C++ and Python (in progress)  
-- Git & GitHub  
-
-### Goals
-
-- Build digital logic and FPGA projects to share here  
-- Deepen my understanding of CPU/GPU and ASIC design  
-- Land an internship in semiconductors or hardware engineering  
+**Foundational Knowledge**
+- Digital logic, Boolean algebra, K-maps, state machines
+- Synchronous circuit design and basic timing analysis
+- FPGA simulation and synthesis workflows 
 
 <!--
 **Turaka007/Turaka007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
