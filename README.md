@@ -8,6 +8,7 @@ I'm building a strong foundation in RTL design, digital systems, and hardware ve
 
 - **RTL Design & Digital Logic**: Mastering synchronous design, state machines, combinational/sequential circuits, and hardware description languages
 - **ASIC + GPU Specialization**: Understanding how GPU cores are specialized ASICs and positioning myself for GPU ASIC design roles
+- **HDLs and Scripting Languages**: Learning and utilizing relevant and necessary HDLs (SystemVerilog, etc) and scripting languages (Python, Perl, UNIX, etc)
 - **Building a Portfolio**: Creating hands-on projects that demonstrate RTL fundamentals and design thinking
 
 ### Relevant Coursework 📚
